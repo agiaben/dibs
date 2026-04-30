@@ -26,5 +26,25 @@ python app.py
 npm install  
 npm run dev  
 
+## Screenshots
+
+###Landing Page
+![Landing Page](visuals/dibslanding.png)
+
+### Login Page
+![Login](visuals/dibslogin.png)
+
+### Logged In Home
+![Logged In](visuals/dibsloggedin.png)
+
+### Browsing Page
+![Browsing page](visuals/dibsbrowsing.png)
+
+### My Listings
+![My Listings](visuals/dibsmylistings.png)
+
+### My Bookings
+![My Bookings](visuals/dibsmybookings.png)
+
 ## Author
 Agila Benedict
